@@ -1,0 +1,6 @@
+#comment  shortcut ctrl+ /
+# \n for new line
+# print("subscribe\n",end ="hello!") 
+
+# \t for new tab
+# print("subscribe\t","hello!")
